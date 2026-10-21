@@ -7,3 +7,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# 21 Oct 2026 housekeeping: downloaded third-party plugin (WP Staging), not this project's code
+wp-staging/
